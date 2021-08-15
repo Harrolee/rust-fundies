@@ -1,0 +1,28 @@
+Data Types: (4)
+
+Chars -> 
+Single unicode value.
+Always 4bytes in size.
+
+Booleans -> 
+1 byte in size. True or false.
+
+Floats -> 
+f32, f64
+
+Ints -> 
+u8, i8
+u16, i16
+u32, i32
+u64, i64
+
+
+
+Key:
+u-> unsigned. Unsigned can only be positive.
+i -> signed. signed can be positive or negative.
+number after is the count of bits
+
+
+usize, isize:
+    Architecture dependent: 32 or 64 bit for the arch
